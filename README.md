@@ -14,6 +14,7 @@ Project ideas:
 * something in go or rust
 * minimax chess bot in c
 * anything with SDR
+* custom jmrtd mods
 
 email me to collab
 <!---
